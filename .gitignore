@@ -2,6 +2,9 @@
 logs
 *.log
 
+*~
+a.out
+*.err
 # Runtime data
 pids
 *.pid
